@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordStrengthChecker", "PasswordStrengthChecker\PasswordStrengthChecker.csproj", "{B30427C2-7E9C-41C1-A7EF-49B6F325A668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordInputer", "PasswordInputer\PasswordInputer.csproj", "{0424E17A-CDE3-4620-940A-A51D65BD3845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B30427C2-7E9C-41C1-A7EF-49B6F325A668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B30427C2-7E9C-41C1-A7EF-49B6F325A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B30427C2-7E9C-41C1-A7EF-49B6F325A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B30427C2-7E9C-41C1-A7EF-49B6F325A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0424E17A-CDE3-4620-940A-A51D65BD3845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0424E17A-CDE3-4620-940A-A51D65BD3845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0424E17A-CDE3-4620-940A-A51D65BD3845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0424E17A-CDE3-4620-940A-A51D65BD3845}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
